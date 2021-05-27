@@ -8,7 +8,7 @@ Pasos seguidos en el siguiente video https://youtu.be/q7v2Qqf2Vmk
 **Nota:** Después de instalar y habilitar WSL2, debe asegurarse de que Docker Desktop esté configurado para usar el backend de WSL2.
 
 ### 1. Instalar Debian WSL
-    Acceder a la Microsoft Store y descargar la imagen de [Debian](https://www.microsoft.com/es-mx/p/debian/9msvkqc78pk6#activetab=pivot:overviewtab) para el subsistema de Windows para Linux (WSL)
+Acceder a la Microsoft Store y descargar la imagen de [Debian](https://www.microsoft.com/es-mx/p/debian/9msvkqc78pk6#activetab=pivot:overviewtab) para el subsistema de Windows para Linux (WSL)
 ### 2. Verificar el modo de WSL 
 `wsl.exe -l -v`
 
